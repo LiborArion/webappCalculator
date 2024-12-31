@@ -1,0 +1,19 @@
+{
+  "name": "webappcalculator",
+  "version": "1.0.0",
+  "description": "Here just practicing - creating a webapp calculator -",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
