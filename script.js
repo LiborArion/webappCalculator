@@ -1,3 +1,7 @@
+// WebappCalculator ... https://github.com/LiborArion/webappCalculator/new/main
+// MIT License
+// Libor Ballaty
+
 // Function to clear the display
 function clearDisplay() {
     document.getElementById('display').value = '';
